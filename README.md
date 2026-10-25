@@ -1,8 +1,8 @@
 **语言 / Language：** [简体中文](./README.md) | [English](./README.en.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Español](./README.es.md) | [Français](./README.fr.md)
 
-# 红果短剧采集 · hongguo
+# hongguo短剧采集 · hongguo
 
-红果短剧采集项目，展示设备注册、视频下载与转码，以及下载后的短剧目录、分集文件和实际播放效果。
+hongguo短剧采集项目，展示设备注册、视频下载与转码，以及下载后的短剧目录、分集文件和实际播放效果。
 
 ## 功能与效果概览
 
